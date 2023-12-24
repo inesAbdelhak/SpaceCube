@@ -1,1 +1,3 @@
 # SpaceCube
+
+jeu à moitié fonctionnel...
